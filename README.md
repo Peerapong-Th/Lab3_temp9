@@ -30,7 +30,9 @@ python main.py
 
 ### caser.py (สมาชิก 4)
 
-ฟังก์ชัน `capitalize_words(text)` ทำให้ตัวอักษรแรกของแต่ละคำเป็นตัวพิมพ์ใหญ่ เช่น `capitalize_words("hello first year")` ได้ `"Hello First Year"`
+ฟังก์ชัน `capitalize_words(text)` ทำให้ตัวอักษรแรกของแต่ละคำเป็นตัวพิมพ์ใหญ่
+
+ตัวอย่าง: `capitalize_words("hello first year")` ได้ `"Hello First Year"`
 
 ## ผู้จัดทำ
 
@@ -48,4 +50,4 @@ python main.py
 
 ### สมาชิก 4
 
-[รหัสนักศึกษา 11 หลัก] [ชื่อ-นามสกุล]
+[รหัสนักศึกษา] [ชื่อ-นามสกุล]
